@@ -13,3 +13,34 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  padding-left: 32px;
+
+}
+
+form {
+  padding-left: 32px;
+}
+
+.answer {
+  line-height: 2;
+}
+
+.write {
+  padding-left: 40px;
+}
+
+.banner {
+  margin: 32px;
+  line-height: 100px;
+  background-color: #FFF6CC;
+  border-left: 4px solid grey;
+}
+
+.link {
+  margin: 32px;
+}
+
+.btn {
+  margin: 10px;
+}
